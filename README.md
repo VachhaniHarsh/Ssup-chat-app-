@@ -1,1 +1,1 @@
-# Ssup-chat-app-
+# Ssup! (chat-app)
